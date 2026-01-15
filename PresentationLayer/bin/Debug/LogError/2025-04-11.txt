@@ -1,0 +1,12 @@
+
+11-04-2025 23:56:44
+Computer name: HIENPM
+PresentationLayer.pageManagement_groupFunctions_TableAndDish -> timerPromotion_Tick -> BusinessLogicLayer.busGeneralFunctions -> GetByCondition -> DatabaseAccessLayer.daoGeneralFunctions -> GetByCondition -> DatabaseAccessLayer.DataProvider -> GetDataTable:
+Unable to connect to any of the specified MySQL hosts.
+
+11-04-2025 23:56:44
+Computer name: HIENPM
+PresentationLayer.pageManagement_groupFunctions_TableAndDish -> timerPromotion_Tick -> General_GetByCondition:
+Exception : Unable to connect to any of the specified MySQL hosts.
+Computer name: HIENPM
+PresentationLayer.pageManagement_groupFunctions_TableAndDish -> timerPromotion_Tick -> BusinessLogicLayer.busGeneralFunctions -> GetByCondition -> DatabaseAccessLayer.daoGeneralFunctions -> GetByCondition -> DatabaseAccessLayer.DataProvider -> GetDataTable

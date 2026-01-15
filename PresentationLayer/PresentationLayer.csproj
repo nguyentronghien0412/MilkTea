@@ -1,0 +1,791 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6167E16D-AA18-4BA7-88CB-73C54727D97A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PresentationLayer</RootNamespace>
+    <AssemblyName>MilkTea</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>milk-tea.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v23.2, Version=23.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Charts.v23.2.Core, Version=23.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.Desktop.v23.2, Version=23.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.DataAccess.v23.2, Version=23.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Drawing.v23.2, Version=23.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v23.2, Version=23.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Dialogs.v23.2.Core, Version=23.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Images.v23.2, Version=23.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Office.v23.2.Core, Version=23.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Pdf.v23.2.Core, Version=23.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Pdf.v23.2.Drawing, Version=23.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.PivotGrid.v23.2.Core, Version=23.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v23.2.Core, Version=23.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v23.2.Core, Version=23.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.RichEdit.v23.2.Export, Version=23.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v23.2.Core, Version=23.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v23.2, Version=23.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v23.2.UI, Version=23.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpo.v23.2, Version=23.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v23.2, Version=23.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v23.2, Version=23.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraDialogs.v23.2, Version=23.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v23.2, Version=23.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v23.2.Core, Version=23.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v23.2, Version=23.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v23.2, Version=23.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraNavBar.v23.2, Version=23.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v23.2, Version=23.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraReports.v23.2, Version=23.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v23.2.Extensions, Version=23.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraRichEdit.v23.2, Version=23.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeList.v23.2, Version=23.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraVerticalGrid.v23.2, Version=23.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GeneralFunctions.cs" />
+    <Compile Include="pageCategories_groupMaterialMenu_DinnerTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageCategories_groupMaterialMenu_DinnerTable.Designer.cs">
+      <DependentUpon>pageCategories_groupMaterialMenu_DinnerTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageCategories_groupMaterialMenu_DinnerTable_Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageCategories_groupMaterialMenu_DinnerTable_Edit.Designer.cs">
+      <DependentUpon>pageCategories_groupMaterialMenu_DinnerTable_Edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageCategories_groupMaterialMenu_ListOfMaterials.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageCategories_groupMaterialMenu_ListOfMaterials.Designer.cs">
+      <DependentUpon>pageCategories_groupMaterialMenu_ListOfMaterials.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageCategories_groupMaterialMenu_ListOfMaterials_Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageCategories_groupMaterialMenu_ListOfMaterials_Edit.Designer.cs">
+      <DependentUpon>pageCategories_groupMaterialMenu_ListOfMaterials_Edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageCategories_groupMaterialMenu_Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageCategories_groupMaterialMenu_Menu.Designer.cs">
+      <DependentUpon>pageCategories_groupMaterialMenu_Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageCategories_groupMaterialMenu_MenuAndMaterial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageCategories_groupMaterialMenu_MenuAndMaterial.Designer.cs">
+      <DependentUpon>pageCategories_groupMaterialMenu_MenuAndMaterial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageCategories_groupMaterialMenu_MenuAndMaterial_Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageCategories_groupMaterialMenu_MenuAndMaterial_Edit.Designer.cs">
+      <DependentUpon>pageCategories_groupMaterialMenu_MenuAndMaterial_Edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageCategories_groupMaterialMenu_MenuGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageCategories_groupMaterialMenu_MenuGroup.Designer.cs">
+      <DependentUpon>pageCategories_groupMaterialMenu_MenuGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageCategories_groupMaterialMenu_MenuGroup_Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageCategories_groupMaterialMenu_MenuGroup_Edit.Designer.cs">
+      <DependentUpon>pageCategories_groupMaterialMenu_MenuGroup_Edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageCategories_groupMaterialMenu_Menu_Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageCategories_groupMaterialMenu_Menu_Edit.Designer.cs">
+      <DependentUpon>pageCategories_groupMaterialMenu_Menu_Edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageCategories_groupMaterialMenu_Unit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageCategories_groupMaterialMenu_Unit.Designer.cs">
+      <DependentUpon>pageCategories_groupMaterialMenu_Unit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageCategories_groupMaterialMenu_Unit_Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageCategories_groupMaterialMenu_Unit_Edit.Designer.cs">
+      <DependentUpon>pageCategories_groupMaterialMenu_Unit_Edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageCategories_groupPriceList_Price.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageCategories_groupPriceList_Price.Designer.cs">
+      <DependentUpon>pageCategories_groupPriceList_Price.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageCategories_groupSystem_Position.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageCategories_groupSystem_Position.Designer.cs">
+      <DependentUpon>pageCategories_groupSystem_Position.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageCategories_groupSystem_Position_Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageCategories_groupSystem_Position_Edit.Designer.cs">
+      <DependentUpon>pageCategories_groupSystem_Position_Edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_CollectAndSpend.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_CollectAndSpend.Designer.cs">
+      <DependentUpon>pageManagement_groupFunctions_CollectAndSpend.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_ImportMaterials.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_ImportMaterials.Designer.cs">
+      <DependentUpon>pageManagement_groupFunctions_ImportMaterials.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_ImportMaterials_Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_ImportMaterials_Edit.Designer.cs">
+      <DependentUpon>pageManagement_groupFunctions_ImportMaterials_Edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_PromotionOnTotalBill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_PromotionOnTotalBill.Designer.cs">
+      <DependentUpon>pageManagement_groupFunctions_PromotionOnTotalBill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_PromotionOnTotalBill_Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_PromotionOnTotalBill_Edit.Designer.cs">
+      <DependentUpon>pageManagement_groupFunctions_PromotionOnTotalBill_Edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish.Designer.cs">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_AddNote.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_AddNote.Designer.cs">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_AddNote.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_CashOrBank.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_CashOrBank.Designer.cs">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_CashOrBank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_ChoseSize.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_ChoseSize.Designer.cs">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_ChoseSize.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_Payment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_Payment.Designer.cs">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_Payment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_EmployeeCollect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_EmployeeCollect.Designer.cs">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_EmployeeCollect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_MessageNoConfigMaterial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_MessageNoConfigMaterial.Designer.cs">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_MessageNoConfigMaterial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_PrintBank.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_PrintBank.Designer.cs">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_PrintBank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageReport_groupRevenue_SummaryOfRevenueByEmployeeInDay_rpt.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="pageReport_groupRevenue_SummaryOfRevenueByEmployeeInDay_rpt.Designer.cs">
+      <DependentUpon>pageReport_groupRevenue_SummaryOfRevenueByEmployeeInDay_rpt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_rptBank.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_rptBank.Designer.cs">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_rptBank.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_Confirm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_Confirm.Designer.cs">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_Confirm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_DateViewType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_DateViewType.Designer.cs">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_DateViewType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_DishAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_DishAdd.Designer.cs">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_DishAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_DishEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_DishEdit.Designer.cs">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_DishEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_KindOfHotpot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_KindOfHotpot.Designer.cs">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_KindOfHotpot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_Print.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_Print.Designer.cs">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_Print.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_rptPromotion.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_rptPromotion.Designer.cs">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_rptPromotion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_rptCheck.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_rptCheck.Designer.cs">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_rptCheck.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_rpt.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_rpt.Designer.cs">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_rpt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_rptSticker_Payment.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_rptSticker_Payment.Designer.cs">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_rptSticker_Payment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_rptSticker.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_rptSticker.Designer.cs">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_rptSticker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_Sticker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_Sticker.Designer.cs">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_Sticker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_TableAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_TableAdd.Designer.cs">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_TableAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_TableChange.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_TableChange.Designer.cs">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_TableChange.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_TableMerge.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageManagement_groupFunctions_TableAndDish_TableMerge.Designer.cs">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_TableMerge.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageManagement_groupSalaryManagement_TimekeepingOther.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageManagement_groupSalaryManagement_TimekeepingOther.Designer.cs">
+      <DependentUpon>pageManagement_groupSalaryManagement_TimekeepingOther.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageManagement_groupSalaryManagement_Overtime.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageManagement_groupSalaryManagement_Overtime.Designer.cs">
+      <DependentUpon>pageManagement_groupSalaryManagement_Overtime.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageManagement_groupSalaryManagement_Overtime_Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageManagement_groupSalaryManagement_Overtime_Edit.Designer.cs">
+      <DependentUpon>pageManagement_groupSalaryManagement_Overtime_Edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageManagement_groupSalaryManagement_Payroll.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageManagement_groupSalaryManagement_Payroll.Designer.cs">
+      <DependentUpon>pageManagement_groupSalaryManagement_Payroll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageManagement_groupSalaryManagement_Payroll_ChangeShift.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageManagement_groupSalaryManagement_Payroll_ChangeShift.Designer.cs">
+      <DependentUpon>pageManagement_groupSalaryManagement_Payroll_ChangeShift.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageManagement_groupSalaryManagement_Payroll_Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageManagement_groupSalaryManagement_Payroll_Edit.Designer.cs">
+      <DependentUpon>pageManagement_groupSalaryManagement_Payroll_Edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageReport_groupRevenue_BestSeller.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageReport_groupRevenue_BestSeller.Designer.cs">
+      <DependentUpon>pageReport_groupRevenue_BestSeller.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageReport_groupRevenue_Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageReport_groupRevenue_Employee.Designer.cs">
+      <DependentUpon>pageReport_groupRevenue_Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageReport_groupRevenue_SummaryOfRevenueByEmployeeInDay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageReport_groupRevenue_SummaryOfRevenueByEmployeeInDay.Designer.cs">
+      <DependentUpon>pageReport_groupRevenue_SummaryOfRevenueByEmployeeInDay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageReport_groupWarehouse_Inventory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageReport_groupWarehouse_Inventory.Designer.cs">
+      <DependentUpon>pageReport_groupWarehouse_Inventory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageSystem_groupConfiguration_ConnectToDatabase.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageSystem_groupConfiguration_ConnectToDatabase.Designer.cs">
+      <DependentUpon>pageSystem_groupConfiguration_ConnectToDatabase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageSystem_groupConfiguration_UserConfiguration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageSystem_groupConfiguration_UserConfiguration.Designer.cs">
+      <DependentUpon>pageSystem_groupConfiguration_UserConfiguration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageSystem_groupConfiguration_UserConfiguration_Warehouse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageSystem_groupConfiguration_UserConfiguration_Warehouse.Designer.cs">
+      <DependentUpon>pageSystem_groupConfiguration_UserConfiguration_Warehouse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageManagement_groupSalaryManagement_AttendanceData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageManagement_groupSalaryManagement_AttendanceData.Designer.cs">
+      <DependentUpon>pageManagement_groupSalaryManagement_AttendanceData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageManagement_groupSalaryManagement_AttendanceData_Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageManagement_groupSalaryManagement_AttendanceData_Edit.Designer.cs">
+      <DependentUpon>pageManagement_groupSalaryManagement_AttendanceData_Edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageSystem_groupUser_ChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageSystem_groupUser_ChangePassword.Designer.cs">
+      <DependentUpon>pageSystem_groupUser_ChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageManagement_groupSalaryManagement_Timekeeping.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageManagement_groupSalaryManagement_Timekeeping.Designer.cs">
+      <DependentUpon>pageManagement_groupSalaryManagement_Timekeeping.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageSystem_groupUser_Role.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageSystem_groupUser_Role.Designer.cs">
+      <DependentUpon>pageSystem_groupUser_Role.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageSystem_groupUser_Role_Edit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageSystem_groupUser_Role_Edit.Designer.cs">
+      <DependentUpon>pageSystem_groupUser_Role_Edit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageSystem_groupUser_UserAdministrator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageSystem_groupUser_UserAdministrator.Designer.cs">
+      <DependentUpon>pageSystem_groupUser_UserAdministrator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageSystem_groupUser_UserAdministrator_PermissionDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageSystem_groupUser_UserAdministrator_PermissionDetail.Designer.cs">
+      <DependentUpon>pageSystem_groupUser_UserAdministrator_PermissionDetail.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageSystem_groupUser_UserAdministrator_Role.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageSystem_groupUser_UserAdministrator_Role.Designer.cs">
+      <DependentUpon>pageSystem_groupUser_UserAdministrator_Role.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageSystem_groupUser_UserAdministrator_WaitForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageSystem_groupUser_UserAdministrator_WaitForm.Designer.cs">
+      <DependentUpon>pageSystem_groupUser_UserAdministrator_WaitForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageSystem_Starting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageSystem_Starting.Designer.cs">
+      <DependentUpon>pageSystem_Starting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pageSystem_groupUser_Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageSystem_groupUser_Login.Designer.cs">
+      <DependentUpon>pageSystem_groupUser_Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="pageReport_groupRevenue_SummaryOfRevenueByEmployeeInDay_Waiting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pageReport_groupRevenue_SummaryOfRevenueByEmployeeInDay_Waiting.Designer.cs">
+      <DependentUpon>pageReport_groupRevenue_SummaryOfRevenueByEmployeeInDay_Waiting.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="pageCategories_groupMaterialMenu_DinnerTable.resx">
+      <DependentUpon>pageCategories_groupMaterialMenu_DinnerTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageCategories_groupMaterialMenu_DinnerTable_Edit.resx">
+      <DependentUpon>pageCategories_groupMaterialMenu_DinnerTable_Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageCategories_groupMaterialMenu_ListOfMaterials.resx">
+      <DependentUpon>pageCategories_groupMaterialMenu_ListOfMaterials.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageCategories_groupMaterialMenu_ListOfMaterials_Edit.resx">
+      <DependentUpon>pageCategories_groupMaterialMenu_ListOfMaterials_Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageCategories_groupMaterialMenu_Menu.resx">
+      <DependentUpon>pageCategories_groupMaterialMenu_Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageCategories_groupMaterialMenu_MenuAndMaterial.resx">
+      <DependentUpon>pageCategories_groupMaterialMenu_MenuAndMaterial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageCategories_groupMaterialMenu_MenuAndMaterial_Edit.resx">
+      <DependentUpon>pageCategories_groupMaterialMenu_MenuAndMaterial_Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageCategories_groupMaterialMenu_MenuGroup.resx">
+      <DependentUpon>pageCategories_groupMaterialMenu_MenuGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageCategories_groupMaterialMenu_MenuGroup_Edit.resx">
+      <DependentUpon>pageCategories_groupMaterialMenu_MenuGroup_Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageCategories_groupMaterialMenu_Menu_Edit.resx">
+      <DependentUpon>pageCategories_groupMaterialMenu_Menu_Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageCategories_groupMaterialMenu_Unit.resx">
+      <DependentUpon>pageCategories_groupMaterialMenu_Unit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageCategories_groupMaterialMenu_Unit_Edit.resx">
+      <DependentUpon>pageCategories_groupMaterialMenu_Unit_Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageCategories_groupPriceList_Price.resx">
+      <DependentUpon>pageCategories_groupPriceList_Price.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageCategories_groupSystem_Position.resx">
+      <DependentUpon>pageCategories_groupSystem_Position.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageCategories_groupSystem_Position_Edit.resx">
+      <DependentUpon>pageCategories_groupSystem_Position_Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageManagement_groupFunctions_CollectAndSpend.resx">
+      <DependentUpon>pageManagement_groupFunctions_CollectAndSpend.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageManagement_groupFunctions_ImportMaterials.resx">
+      <DependentUpon>pageManagement_groupFunctions_ImportMaterials.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageManagement_groupFunctions_ImportMaterials_Edit.resx">
+      <DependentUpon>pageManagement_groupFunctions_ImportMaterials_Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageManagement_groupFunctions_PromotionOnTotalBill.resx">
+      <DependentUpon>pageManagement_groupFunctions_PromotionOnTotalBill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageManagement_groupFunctions_PromotionOnTotalBill_Edit.resx">
+      <DependentUpon>pageManagement_groupFunctions_PromotionOnTotalBill_Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageManagement_groupFunctions_TableAndDish.resx">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageManagement_groupFunctions_TableAndDish_AddNote.resx">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_AddNote.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageManagement_groupFunctions_TableAndDish_CashOrBank.resx">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_CashOrBank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageManagement_groupFunctions_TableAndDish_ChoseSize.resx">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_ChoseSize.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageManagement_groupFunctions_TableAndDish_Payment.resx">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_Payment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageManagement_groupFunctions_TableAndDish_EmployeeCollect.resx">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_EmployeeCollect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageManagement_groupFunctions_TableAndDish_MessageNoConfigMaterial.resx">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_MessageNoConfigMaterial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageManagement_groupFunctions_TableAndDish_PrintBank.resx">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_PrintBank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageReport_groupRevenue_SummaryOfRevenueByEmployeeInDay_rpt.resx">
+      <DependentUpon>pageReport_groupRevenue_SummaryOfRevenueByEmployeeInDay_rpt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageManagement_groupFunctions_TableAndDish_rptBank.resx">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_rptBank.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageManagement_groupFunctions_TableAndDish_Confirm.resx">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_Confirm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageManagement_groupFunctions_TableAndDish_DateViewType.resx">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_DateViewType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageManagement_groupFunctions_TableAndDish_DishAdd.resx">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_DishAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageManagement_groupFunctions_TableAndDish_DishEdit.resx">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_DishEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageManagement_groupFunctions_TableAndDish_KindOfHotpot.resx">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_KindOfHotpot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageManagement_groupFunctions_TableAndDish_Print.resx">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_Print.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageManagement_groupFunctions_TableAndDish_rptPromotion.resx">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_rptPromotion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageManagement_groupFunctions_TableAndDish_rptCheck.resx">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_rptCheck.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageManagement_groupFunctions_TableAndDish_rpt.resx">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_rpt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageManagement_groupFunctions_TableAndDish_rptSticker_Payment.resx">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_rptSticker_Payment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageManagement_groupFunctions_TableAndDish_rptSticker.resx">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_rptSticker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageManagement_groupFunctions_TableAndDish_Sticker.resx">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_Sticker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageManagement_groupFunctions_TableAndDish_TableAdd.resx">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_TableAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageManagement_groupFunctions_TableAndDish_TableChange.resx">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_TableChange.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageManagement_groupFunctions_TableAndDish_TableMerge.resx">
+      <DependentUpon>pageManagement_groupFunctions_TableAndDish_TableMerge.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageManagement_groupSalaryManagement_TimekeepingOther.resx">
+      <DependentUpon>pageManagement_groupSalaryManagement_TimekeepingOther.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageManagement_groupSalaryManagement_Overtime.resx">
+      <DependentUpon>pageManagement_groupSalaryManagement_Overtime.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageManagement_groupSalaryManagement_Overtime_Edit.resx">
+      <DependentUpon>pageManagement_groupSalaryManagement_Overtime_Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageManagement_groupSalaryManagement_Payroll.resx">
+      <DependentUpon>pageManagement_groupSalaryManagement_Payroll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageManagement_groupSalaryManagement_Payroll_ChangeShift.resx">
+      <DependentUpon>pageManagement_groupSalaryManagement_Payroll_ChangeShift.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageManagement_groupSalaryManagement_Payroll_Edit.resx">
+      <DependentUpon>pageManagement_groupSalaryManagement_Payroll_Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageReport_groupRevenue_BestSeller.resx">
+      <DependentUpon>pageReport_groupRevenue_BestSeller.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageReport_groupRevenue_Employee.resx">
+      <DependentUpon>pageReport_groupRevenue_Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageReport_groupRevenue_SummaryOfRevenueByEmployeeInDay.resx">
+      <DependentUpon>pageReport_groupRevenue_SummaryOfRevenueByEmployeeInDay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageReport_groupWarehouse_Inventory.resx">
+      <DependentUpon>pageReport_groupWarehouse_Inventory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageSystem_groupConfiguration_ConnectToDatabase.resx">
+      <DependentUpon>pageSystem_groupConfiguration_ConnectToDatabase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageSystem_groupConfiguration_UserConfiguration.resx">
+      <DependentUpon>pageSystem_groupConfiguration_UserConfiguration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageSystem_groupConfiguration_UserConfiguration_Warehouse.resx">
+      <DependentUpon>pageSystem_groupConfiguration_UserConfiguration_Warehouse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageManagement_groupSalaryManagement_AttendanceData.resx">
+      <DependentUpon>pageManagement_groupSalaryManagement_AttendanceData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageManagement_groupSalaryManagement_AttendanceData_Edit.resx">
+      <DependentUpon>pageManagement_groupSalaryManagement_AttendanceData_Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageSystem_groupUser_ChangePassword.resx">
+      <DependentUpon>pageSystem_groupUser_ChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageManagement_groupSalaryManagement_Timekeeping.resx">
+      <DependentUpon>pageManagement_groupSalaryManagement_Timekeeping.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageSystem_groupUser_Role.resx">
+      <DependentUpon>pageSystem_groupUser_Role.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageSystem_groupUser_Role_Edit.resx">
+      <DependentUpon>pageSystem_groupUser_Role_Edit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageSystem_groupUser_UserAdministrator.resx">
+      <DependentUpon>pageSystem_groupUser_UserAdministrator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageSystem_groupUser_UserAdministrator_PermissionDetail.resx">
+      <DependentUpon>pageSystem_groupUser_UserAdministrator_PermissionDetail.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageSystem_groupUser_UserAdministrator_Role.resx">
+      <DependentUpon>pageSystem_groupUser_UserAdministrator_Role.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageSystem_groupUser_UserAdministrator_WaitForm.resx">
+      <DependentUpon>pageSystem_groupUser_UserAdministrator_WaitForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageSystem_Starting.resx">
+      <DependentUpon>pageSystem_Starting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageSystem_groupUser_Login.resx">
+      <DependentUpon>pageSystem_groupUser_Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pageReport_groupRevenue_SummaryOfRevenueByEmployeeInDay_Waiting.resx">
+      <DependentUpon>pageReport_groupRevenue_SummaryOfRevenueByEmployeeInDay_Waiting.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessLogicLayer\BusinessLogicLayer.csproj">
+      <Project>{19f88ef1-68d0-4be2-8cae-4e74809ac18f}</Project>
+      <Name>BusinessLogicLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataObject\DataObject.csproj">
+      <Project>{179bd5c1-77b4-487f-8af0-3c8e27f3ef5b}</Project>
+      <Name>DataObject</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Utilities\Utilities.csproj">
+      <Project>{1d381b21-4f01-4605-9151-78854a5b5854}</Project>
+      <Name>Utilities</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Table.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\List.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="hot-pot.ico" />
+    <Content Include="milk-tea.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

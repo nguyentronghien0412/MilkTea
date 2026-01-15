@@ -1,0 +1,6 @@
+<Root Email="nguyentronghien0412@gmail.com" Phone="0937410899">
+  <DatabaseConfiguration Server="19 Oub9E6afAwAWotExC6QEKkzAjU5+5RIM" Database="12 p4OAeuBta0Hdh73yjhn7mQ==" Username="7 AL1bFJ0Oflk=" Password="16 4IK5dDTBMhjWkRZJhXypKnUr+5M6zlz7" Port="4 7ggyElT/ey4=" />
+  <Login RememberUsername="1" Username="nthien" />
+  <PRINTER_BILL PrinterName="Microsoft Print to PDF" />
+  <PRINTER_STICKER PrinterName="Microsoft Print to PDF" />
+</Root>

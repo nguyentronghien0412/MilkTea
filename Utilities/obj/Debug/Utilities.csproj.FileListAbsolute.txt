@@ -1,0 +1,1650 @@
+D:\Project Other\VuongBao\Utilities\bin\Debug\Utilities.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\Utilities.pdb
+D:\Project Other\VuongBao\Utilities\bin\Debug\DataObject.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\DevExpress.Data.v21.1.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\DevExpress.Utils.v21.1.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\DevExpress.XtraBars.v21.1.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\DevExpress.XtraGrid.v21.1.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\DevExpress.XtraLayout.v21.1.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\DevExpress.XtraPrinting.v21.1.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\DevExpress.Office.v21.1.Core.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\DataObject.pdb
+D:\Project Other\VuongBao\Utilities\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+D:\Project Other\VuongBao\Utilities\bin\Debug\DevExpress.Data.v21.1.xml
+D:\Project Other\VuongBao\Utilities\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+D:\Project Other\VuongBao\Utilities\bin\Debug\DevExpress.Utils.v21.1.xml
+D:\Project Other\VuongBao\Utilities\bin\Debug\DevExpress.XtraBars.v21.1.xml
+D:\Project Other\VuongBao\Utilities\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+D:\Project Other\VuongBao\Utilities\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+D:\Project Other\VuongBao\Utilities\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+D:\Project Other\VuongBao\Utilities\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+D:\Project Other\VuongBao\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+D:\Project Other\VuongBao\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+D:\Project Other\VuongBao\Utilities\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+D:\Project Other\VuongBao\Utilities\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+D:\Project Other\VuongBao\Utilities\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+D:\Project Other\VuongBao\Utilities\bin\Debug\DevExpress.Office.v21.1.Core.xml
+D:\Project Other\VuongBao\Utilities\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\VuongBao\Utilities\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\VuongBao\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+D:\Project Other\VuongBao\Utilities\obj\Debug\Utilities.frmMessageBox.resources
+D:\Project Other\VuongBao\Utilities\obj\Debug\Utilities.frmMessageBoxYesNo.resources
+D:\Project Other\VuongBao\Utilities\obj\Debug\Utilities.frmMessageBoxOK.resources
+D:\Project Other\VuongBao\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+D:\Project Other\VuongBao\Utilities\obj\Debug\Utilities.csproj.GenerateResource.cache
+D:\Project Other\VuongBao\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\Project Other\VuongBao\Utilities\obj\Debug\Utilities.csproj.CopyComplete
+D:\Project Other\VuongBao\Utilities\obj\Debug\Utilities.dll
+D:\Project Other\VuongBao\Utilities\obj\Debug\Utilities.pdb
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\Utilities.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\Utilities.pdb
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\DataObject.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\DevExpress.Data.v21.1.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\DevExpress.Utils.v21.1.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\DevExpress.XtraBars.v21.1.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\DevExpress.XtraGrid.v21.1.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\DevExpress.XtraLayout.v21.1.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\DevExpress.XtraPrinting.v21.1.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\DevExpress.Office.v21.1.Core.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\DataObject.pdb
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\DevExpress.Data.v21.1.xml
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\DevExpress.Utils.v21.1.xml
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\DevExpress.XtraBars.v21.1.xml
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\DevExpress.Office.v21.1.Core.xml
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+D:\Project Other\QuanDatThu\VuongBao\Utilities\obj\Debug\Utilities.frmMessageBox.resources
+D:\Project Other\QuanDatThu\VuongBao\Utilities\obj\Debug\Utilities.frmMessageBoxYesNo.resources
+D:\Project Other\QuanDatThu\VuongBao\Utilities\obj\Debug\Utilities.frmMessageBoxOK.resources
+D:\Project Other\QuanDatThu\VuongBao\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+D:\Project Other\QuanDatThu\VuongBao\Utilities\obj\Debug\Utilities.csproj.GenerateResource.cache
+D:\Project Other\QuanDatThu\VuongBao\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\Project Other\QuanDatThu\VuongBao\Utilities\obj\Debug\Utilities.csproj.CopyComplete
+D:\Project Other\QuanDatThu\VuongBao\Utilities\obj\Debug\Utilities.dll
+D:\Project Other\QuanDatThu\VuongBao\Utilities\obj\Debug\Utilities.pdb
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\Utilities.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\Utilities.pdb
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\DataObject.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\DevExpress.Data.v21.1.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\DevExpress.Utils.v21.1.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\DevExpress.XtraBars.v21.1.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\DevExpress.XtraGrid.v21.1.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\DevExpress.XtraLayout.v21.1.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\DevExpress.XtraPrinting.v21.1.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\DevExpress.Office.v21.1.Core.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\DataObject.pdb
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\DevExpress.Data.v21.1.xml
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\DevExpress.Utils.v21.1.xml
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\DevExpress.XtraBars.v21.1.xml
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\DevExpress.Office.v21.1.Core.xml
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\obj\Debug\Utilities.frmMessageBox.resources
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\obj\Debug\Utilities.frmMessageBoxYesNo.resources
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\obj\Debug\Utilities.frmMessageBoxOK.resources
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\obj\Debug\Utilities.csproj.GenerateResource.cache
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\obj\Debug\Utilities.csproj.CopyComplete
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\obj\Debug\Utilities.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\Utilities\obj\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\DevExpress.Data.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\DevExpress.Utils.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\DevExpress.XtraBars.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\DevExpress.XtraGrid.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\DevExpress.XtraLayout.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\DevExpress.XtraPrinting.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\DevExpress.Office.v21.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\DevExpress.Data.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\DevExpress.Utils.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\DevExpress.XtraBars.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\DevExpress.Office.v21.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\obj\Debug\Utilities.frmMessageBox.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\obj\Debug\Utilities.frmMessageBoxYesNo.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\obj\Debug\Utilities.frmMessageBoxOK.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\obj\Debug\Utilities.csproj.GenerateResource.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\obj\Debug\Utilities.csproj.CopyComplete
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\obj\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\Utilities\obj\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\DevExpress.Data.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\DevExpress.Utils.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\DevExpress.XtraBars.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\DevExpress.XtraGrid.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\DevExpress.XtraLayout.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\DevExpress.XtraPrinting.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\DevExpress.Office.v21.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\DevExpress.Data.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\DevExpress.Utils.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\DevExpress.XtraBars.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\DevExpress.Office.v21.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\obj\Debug\Utilities.frmMessageBox.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\obj\Debug\Utilities.frmMessageBoxYesNo.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\obj\Debug\Utilities.frmMessageBoxOK.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\obj\Debug\Utilities.csproj.GenerateResource.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\obj\Debug\Utilities.csproj.CopyComplete
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\obj\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\Utilities\obj\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\DevExpress.Data.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\DevExpress.Utils.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\DevExpress.XtraBars.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\DevExpress.XtraGrid.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\DevExpress.XtraLayout.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\DevExpress.XtraPrinting.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\DevExpress.Office.v21.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\DevExpress.Data.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\DevExpress.Utils.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\DevExpress.XtraBars.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\DevExpress.Office.v21.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\obj\Debug\Utilities.frmMessageBox.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\obj\Debug\Utilities.frmMessageBoxYesNo.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\obj\Debug\Utilities.frmMessageBoxOK.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\obj\Debug\Utilities.csproj.GenerateResource.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\obj\Debug\Utilities.csproj.CopyComplete
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\obj\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\Utilities\obj\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\DevExpress.Data.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\DevExpress.Utils.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\DevExpress.XtraBars.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\DevExpress.XtraGrid.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\DevExpress.XtraLayout.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\DevExpress.XtraPrinting.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\DevExpress.Office.v21.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\DevExpress.Data.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\DevExpress.Utils.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\DevExpress.XtraBars.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\DevExpress.Office.v21.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\obj\Debug\Utilities.frmMessageBox.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\obj\Debug\Utilities.frmMessageBoxYesNo.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\obj\Debug\Utilities.frmMessageBoxOK.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\obj\Debug\Utilities.csproj.GenerateResource.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\obj\Debug\Utilities.csproj.CopyComplete
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\obj\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\Utilities\obj\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\DevExpress.Data.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\DevExpress.Utils.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\DevExpress.XtraBars.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\DevExpress.XtraGrid.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\DevExpress.XtraLayout.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\DevExpress.XtraPrinting.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\DevExpress.Office.v21.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\DevExpress.Data.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\DevExpress.Utils.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\DevExpress.XtraBars.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\DevExpress.Office.v21.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\obj\Debug\Utilities.frmMessageBox.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\obj\Debug\Utilities.frmMessageBoxYesNo.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\obj\Debug\Utilities.frmMessageBoxOK.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\obj\Debug\Utilities.csproj.GenerateResource.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\obj\Debug\Utilities.csproj.CopyComplete
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\obj\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\Utilities\obj\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\DevExpress.Data.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\DevExpress.Utils.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\DevExpress.XtraBars.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\DevExpress.XtraGrid.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\DevExpress.XtraLayout.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\DevExpress.XtraPrinting.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\DevExpress.Office.v21.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\DevExpress.Data.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\DevExpress.Utils.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\DevExpress.XtraBars.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\DevExpress.Office.v21.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\obj\Debug\Utilities.frmMessageBox.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\obj\Debug\Utilities.frmMessageBoxYesNo.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\obj\Debug\Utilities.frmMessageBoxOK.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\obj\Debug\Utilities.csproj.GenerateResource.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\obj\Debug\Utilities.csproj.CopyComplete
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\obj\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\Utilities\obj\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\DevExpress.Data.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\DevExpress.Utils.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\DevExpress.XtraBars.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\DevExpress.XtraGrid.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\DevExpress.XtraLayout.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\DevExpress.XtraPrinting.v21.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\DevExpress.Office.v21.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\DevExpress.Data.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\DevExpress.Utils.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\DevExpress.XtraBars.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\DevExpress.Office.v21.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\obj\Debug\Utilities.frmMessageBox.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\obj\Debug\Utilities.frmMessageBoxYesNo.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\obj\Debug\Utilities.frmMessageBoxOK.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\obj\Debug\Utilities.csproj.GenerateResource.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\obj\Debug\Utilities.csproj.CopyComplete
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\obj\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\Utilities\obj\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\bin\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\bin\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\bin\Debug\DevExpress.Data.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\bin\Debug\DevExpress.Drawing.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\bin\Debug\DevExpress.Utils.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\bin\Debug\DevExpress.XtraBars.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\bin\Debug\DevExpress.XtraGrid.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\bin\Debug\DevExpress.XtraLayout.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\bin\Debug\DevExpress.XtraTreeList.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\bin\Debug\DevExpress.XtraPrinting.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\bin\Debug\DevExpress.RichEdit.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\bin\Debug\DevExpress.Office.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\bin\Debug\DevExpress.Drawing.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\bin\Debug\DevExpress.Data.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\bin\Debug\DevExpress.Utils.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\bin\Debug\DevExpress.XtraBars.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\bin\Debug\DevExpress.XtraGrid.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\bin\Debug\DevExpress.XtraLayout.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\bin\Debug\DevExpress.XtraTreeList.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\bin\Debug\DevExpress.XtraPrinting.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\bin\Debug\DevExpress.RichEdit.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\bin\Debug\DevExpress.Office.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\obj\Debug\Utilities.frmMessageBox.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\obj\Debug\Utilities.frmMessageBoxYesNo.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\obj\Debug\Utilities.frmMessageBoxOK.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\obj\Debug\Utilities.csproj.GenerateResource.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\obj\Debug\Utilities.csproj.CopyComplete
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\obj\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\Utilities\obj\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\bin\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\bin\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\bin\Debug\DevExpress.Data.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\bin\Debug\DevExpress.Drawing.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\bin\Debug\DevExpress.Utils.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\bin\Debug\DevExpress.XtraBars.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\bin\Debug\DevExpress.XtraGrid.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\bin\Debug\DevExpress.XtraLayout.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\bin\Debug\DevExpress.XtraTreeList.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\bin\Debug\DevExpress.XtraPrinting.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\bin\Debug\DevExpress.RichEdit.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\bin\Debug\DevExpress.Office.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\bin\Debug\DevExpress.Drawing.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\bin\Debug\DevExpress.Data.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\bin\Debug\DevExpress.Utils.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\bin\Debug\DevExpress.XtraBars.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\bin\Debug\DevExpress.XtraGrid.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\bin\Debug\DevExpress.XtraLayout.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\bin\Debug\DevExpress.XtraTreeList.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\bin\Debug\DevExpress.XtraPrinting.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\bin\Debug\DevExpress.RichEdit.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\bin\Debug\DevExpress.Office.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\obj\Debug\Utilities.frmMessageBox.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\obj\Debug\Utilities.frmMessageBoxYesNo.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\obj\Debug\Utilities.frmMessageBoxOK.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\obj\Debug\Utilities.csproj.GenerateResource.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\obj\Debug\Utilities.csproj.CopyComplete
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\obj\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\Utilities\obj\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\bin\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\bin\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\bin\Debug\DevExpress.Data.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\bin\Debug\DevExpress.Drawing.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\bin\Debug\DevExpress.Utils.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\bin\Debug\DevExpress.XtraBars.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\bin\Debug\DevExpress.XtraGrid.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\bin\Debug\DevExpress.XtraLayout.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\bin\Debug\DevExpress.XtraTreeList.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\bin\Debug\DevExpress.XtraPrinting.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\bin\Debug\DevExpress.RichEdit.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\bin\Debug\DevExpress.Office.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\bin\Debug\DevExpress.Drawing.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\bin\Debug\DevExpress.Data.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\bin\Debug\DevExpress.Utils.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\bin\Debug\DevExpress.XtraBars.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\bin\Debug\DevExpress.XtraGrid.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\bin\Debug\DevExpress.XtraLayout.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\bin\Debug\DevExpress.XtraTreeList.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\bin\Debug\DevExpress.XtraPrinting.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\bin\Debug\DevExpress.RichEdit.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\bin\Debug\DevExpress.Office.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\obj\Debug\Utilities.frmMessageBox.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\obj\Debug\Utilities.frmMessageBoxYesNo.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\obj\Debug\Utilities.frmMessageBoxOK.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\obj\Debug\Utilities.csproj.GenerateResource.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\obj\Debug\Utilities.csproj.CopyComplete
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\obj\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\Utilities\obj\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\bin\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\bin\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\bin\Debug\DevExpress.Data.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\bin\Debug\DevExpress.Drawing.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\bin\Debug\DevExpress.Utils.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\bin\Debug\DevExpress.XtraBars.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\bin\Debug\DevExpress.XtraGrid.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\bin\Debug\DevExpress.XtraLayout.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\bin\Debug\DevExpress.XtraTreeList.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\bin\Debug\DevExpress.XtraPrinting.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\bin\Debug\DevExpress.RichEdit.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\bin\Debug\DevExpress.Office.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\bin\Debug\DevExpress.Drawing.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\bin\Debug\DevExpress.Data.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\bin\Debug\DevExpress.Utils.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\bin\Debug\DevExpress.XtraBars.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\bin\Debug\DevExpress.XtraGrid.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\bin\Debug\DevExpress.XtraLayout.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\bin\Debug\DevExpress.XtraTreeList.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\bin\Debug\DevExpress.XtraPrinting.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\bin\Debug\DevExpress.RichEdit.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\bin\Debug\DevExpress.Office.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\obj\Debug\Utilities.frmMessageBox.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\obj\Debug\Utilities.frmMessageBoxYesNo.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\obj\Debug\Utilities.frmMessageBoxOK.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\obj\Debug\Utilities.csproj.GenerateResource.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\obj\Debug\Utilities.csproj.CopyComplete
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\obj\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\Utilities\obj\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\bin\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\bin\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\bin\Debug\DevExpress.Data.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\bin\Debug\DevExpress.Drawing.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\bin\Debug\DevExpress.Utils.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\bin\Debug\DevExpress.XtraBars.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\bin\Debug\DevExpress.XtraGrid.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\bin\Debug\DevExpress.XtraLayout.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\bin\Debug\DevExpress.XtraTreeList.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\bin\Debug\DevExpress.XtraPrinting.v23.1.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\bin\Debug\DevExpress.RichEdit.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\bin\Debug\DevExpress.Office.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\bin\Debug\DevExpress.Drawing.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\bin\Debug\DevExpress.Data.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\bin\Debug\DevExpress.Utils.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\bin\Debug\DevExpress.XtraBars.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\bin\Debug\DevExpress.XtraGrid.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\bin\Debug\DevExpress.XtraLayout.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\bin\Debug\DevExpress.XtraTreeList.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\bin\Debug\DevExpress.XtraPrinting.v23.1.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\bin\Debug\DevExpress.RichEdit.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\bin\Debug\DevExpress.Office.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\obj\Debug\Utilities.frmMessageBox.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\obj\Debug\Utilities.frmMessageBoxYesNo.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\obj\Debug\Utilities.frmMessageBoxOK.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\obj\Debug\Utilities.csproj.GenerateResource.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\obj\Debug\Utilities.csproj.CopyComplete
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\obj\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\Utilities\obj\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\bin\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\bin\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\bin\Debug\DevExpress.Data.v23.1.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\bin\Debug\DevExpress.Drawing.v23.1.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\bin\Debug\DevExpress.Utils.v23.1.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\bin\Debug\DevExpress.XtraBars.v23.1.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\bin\Debug\DevExpress.XtraGrid.v23.1.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\bin\Debug\DevExpress.XtraLayout.v23.1.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\bin\Debug\DevExpress.XtraTreeList.v23.1.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\bin\Debug\DevExpress.XtraPrinting.v23.1.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\bin\Debug\DevExpress.RichEdit.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\bin\Debug\DevExpress.Office.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\bin\Debug\DevExpress.Drawing.v23.1.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\bin\Debug\DevExpress.Data.v23.1.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\bin\Debug\DevExpress.Utils.v23.1.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\bin\Debug\DevExpress.XtraBars.v23.1.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\bin\Debug\DevExpress.XtraGrid.v23.1.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\bin\Debug\DevExpress.XtraLayout.v23.1.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\bin\Debug\DevExpress.XtraTreeList.v23.1.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\bin\Debug\DevExpress.XtraPrinting.v23.1.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\bin\Debug\DevExpress.RichEdit.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\bin\Debug\DevExpress.Office.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\obj\Debug\Utilities.frmMessageBox.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\obj\Debug\Utilities.frmMessageBoxYesNo.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\obj\Debug\Utilities.frmMessageBoxOK.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\obj\Debug\Utilities.csproj.GenerateResource.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\obj\Debug\Utilities.csproj.CopyComplete
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\obj\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\Utilities\obj\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\bin\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\bin\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\bin\Debug\DevExpress.Data.v23.1.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\bin\Debug\DevExpress.Drawing.v23.1.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\bin\Debug\DevExpress.Utils.v23.1.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\bin\Debug\DevExpress.XtraBars.v23.1.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\bin\Debug\DevExpress.XtraGrid.v23.1.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\bin\Debug\DevExpress.XtraLayout.v23.1.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\bin\Debug\DevExpress.XtraTreeList.v23.1.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\bin\Debug\DevExpress.XtraPrinting.v23.1.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\bin\Debug\DevExpress.RichEdit.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\bin\Debug\DevExpress.Office.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\bin\Debug\DevExpress.Drawing.v23.1.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\bin\Debug\DevExpress.Data.v23.1.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\bin\Debug\DevExpress.Utils.v23.1.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\bin\Debug\DevExpress.XtraBars.v23.1.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\bin\Debug\DevExpress.XtraGrid.v23.1.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\bin\Debug\DevExpress.XtraLayout.v23.1.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\bin\Debug\DevExpress.XtraTreeList.v23.1.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\bin\Debug\DevExpress.XtraPrinting.v23.1.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\bin\Debug\DevExpress.RichEdit.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\bin\Debug\DevExpress.Office.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\obj\Debug\Utilities.frmMessageBox.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\obj\Debug\Utilities.frmMessageBoxYesNo.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\obj\Debug\Utilities.frmMessageBoxOK.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\obj\Debug\Utilities.csproj.GenerateResource.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\obj\Debug\Utilities.csproj.CopyComplete
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\obj\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\Utilities\obj\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\bin\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\bin\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\bin\Debug\DevExpress.Data.Desktop.v23.1.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\bin\Debug\DevExpress.Data.v23.1.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\bin\Debug\DevExpress.Drawing.v23.1.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\bin\Debug\DevExpress.Printing.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\bin\Debug\DevExpress.Utils.v23.1.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\bin\Debug\DevExpress.XtraBars.v23.1.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\bin\Debug\DevExpress.XtraEditors.v23.1.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\bin\Debug\DevExpress.XtraGrid.v23.1.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\bin\Debug\DevExpress.XtraLayout.v23.1.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\bin\Debug\DevExpress.XtraTreeList.v23.1.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\bin\Debug\DevExpress.Pdf.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\bin\Debug\DevExpress.Pdf.v23.1.Drawing.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\bin\Debug\DevExpress.Sparkline.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\bin\Debug\DevExpress.XtraPrinting.v23.1.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\bin\Debug\DevExpress.RichEdit.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\bin\Debug\DevExpress.Office.v23.1.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\bin\Debug\DevExpress.Data.Desktop.v23.1.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\bin\Debug\DevExpress.Drawing.v23.1.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\bin\Debug\DevExpress.Data.v23.1.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\bin\Debug\DevExpress.Printing.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\bin\Debug\DevExpress.Utils.v23.1.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\bin\Debug\DevExpress.XtraBars.v23.1.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\bin\Debug\DevExpress.XtraEditors.v23.1.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\bin\Debug\DevExpress.XtraGrid.v23.1.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\bin\Debug\DevExpress.XtraLayout.v23.1.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\bin\Debug\DevExpress.XtraTreeList.v23.1.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\bin\Debug\DevExpress.Pdf.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\bin\Debug\DevExpress.Pdf.v23.1.Drawing.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\bin\Debug\DevExpress.Sparkline.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\bin\Debug\DevExpress.XtraPrinting.v23.1.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\bin\Debug\DevExpress.RichEdit.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\bin\Debug\DevExpress.Office.v23.1.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\obj\Debug\Utilities.frmMessageBox.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\obj\Debug\Utilities.frmMessageBoxYesNo.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\obj\Debug\Utilities.frmMessageBoxOK.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\obj\Debug\Utilities.csproj.GenerateResource.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\obj\Debug\Utilities.csproj.CopyComplete
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\obj\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\Utilities\obj\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\bin\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\bin\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\bin\Debug\DevExpress.Data.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\bin\Debug\DevExpress.Drawing.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\bin\Debug\DevExpress.Utils.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\bin\Debug\DevExpress.XtraBars.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\bin\Debug\DevExpress.Office.v23.2.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\bin\Debug\DevExpress.Drawing.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\bin\Debug\DevExpress.Data.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\bin\Debug\DevExpress.Utils.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\bin\Debug\DevExpress.XtraBars.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\bin\Debug\DevExpress.Office.v23.2.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\obj\Debug\Utilities.frmMessageBox.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\obj\Debug\Utilities.frmMessageBoxYesNo.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\obj\Debug\Utilities.frmMessageBoxOK.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\obj\Debug\Utilities.csproj.GenerateResource.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\obj\Debug\Utilities.csproj.CopyComplete
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\obj\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\Utilities\obj\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\bin\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\bin\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\bin\Debug\DevExpress.Data.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\bin\Debug\DevExpress.Drawing.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\bin\Debug\DevExpress.Utils.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\bin\Debug\DevExpress.XtraBars.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\bin\Debug\DevExpress.Office.v23.2.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\bin\Debug\DevExpress.Drawing.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\bin\Debug\DevExpress.Data.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\bin\Debug\DevExpress.Utils.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\bin\Debug\DevExpress.XtraBars.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\bin\Debug\DevExpress.Office.v23.2.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\obj\Debug\Utilities.frmMessageBox.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\obj\Debug\Utilities.frmMessageBoxYesNo.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\obj\Debug\Utilities.frmMessageBoxOK.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\obj\Debug\Utilities.csproj.GenerateResource.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\obj\Debug\Utilities.csproj.CopyComplete
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\obj\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\Utilities\obj\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\bin\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\bin\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\bin\Debug\DevExpress.Data.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\bin\Debug\DevExpress.Drawing.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\bin\Debug\DevExpress.Utils.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\bin\Debug\DevExpress.XtraBars.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\bin\Debug\DevExpress.Office.v23.2.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\bin\Debug\DevExpress.Drawing.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\bin\Debug\DevExpress.Data.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\bin\Debug\DevExpress.Utils.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\bin\Debug\DevExpress.XtraBars.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\bin\Debug\DevExpress.Office.v23.2.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\obj\Debug\Utilities.frmMessageBox.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\obj\Debug\Utilities.frmMessageBoxYesNo.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\obj\Debug\Utilities.frmMessageBoxOK.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\obj\Debug\Utilities.csproj.GenerateResource.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\obj\Debug\Utilities.csproj.CopyComplete
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\obj\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\Utilities\obj\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\bin\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\bin\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\bin\Debug\DevExpress.Data.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\bin\Debug\DevExpress.Drawing.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\bin\Debug\DevExpress.Utils.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\bin\Debug\DevExpress.XtraBars.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\bin\Debug\DevExpress.Office.v23.2.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\bin\Debug\DevExpress.Drawing.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\bin\Debug\DevExpress.Data.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\bin\Debug\DevExpress.Utils.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\bin\Debug\DevExpress.XtraBars.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\bin\Debug\DevExpress.Office.v23.2.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\obj\Debug\Utilities.frmMessageBox.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\obj\Debug\Utilities.frmMessageBoxYesNo.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\obj\Debug\Utilities.frmMessageBoxOK.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\obj\Debug\Utilities.csproj.GenerateResource.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\obj\Debug\Utilities.csproj.CopyComplete
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\obj\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\Utilities\obj\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\bin\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\bin\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\bin\Debug\DevExpress.Data.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\bin\Debug\DevExpress.Drawing.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\bin\Debug\DevExpress.Utils.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\bin\Debug\DevExpress.XtraBars.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\bin\Debug\DevExpress.Office.v23.2.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\bin\Debug\DevExpress.Drawing.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\bin\Debug\DevExpress.Data.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\bin\Debug\DevExpress.Utils.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\bin\Debug\DevExpress.XtraBars.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\bin\Debug\DevExpress.Office.v23.2.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\obj\Debug\Utilities.frmMessageBox.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\obj\Debug\Utilities.frmMessageBoxYesNo.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\obj\Debug\Utilities.frmMessageBoxOK.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\obj\Debug\Utilities.csproj.GenerateResource.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\obj\Debug\Utilities.csproj.CopyComplete
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\obj\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\Utilities\obj\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\bin\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\bin\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\bin\Debug\DevExpress.Data.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\bin\Debug\DevExpress.Drawing.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\bin\Debug\DevExpress.Utils.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\bin\Debug\DevExpress.XtraBars.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\bin\Debug\DevExpress.Office.v23.2.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\bin\Debug\DevExpress.Drawing.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\bin\Debug\DevExpress.Data.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\bin\Debug\DevExpress.Utils.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\bin\Debug\DevExpress.XtraBars.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\bin\Debug\DevExpress.Office.v23.2.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\obj\Debug\Utilities.frmMessageBox.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\obj\Debug\Utilities.frmMessageBoxYesNo.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\obj\Debug\Utilities.frmMessageBoxOK.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\obj\Debug\Utilities.csproj.GenerateResource.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\obj\Debug\Utilities.csproj.CopyComplete
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\obj\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\Utilities\obj\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\bin\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\bin\Debug\Utilities.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\bin\Debug\DevExpress.Data.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\bin\Debug\DevExpress.Drawing.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\bin\Debug\DevExpress.Utils.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\bin\Debug\DevExpress.XtraBars.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\bin\Debug\DevExpress.Office.v23.2.Core.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\bin\Debug\DevExpress.Drawing.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\bin\Debug\DevExpress.Data.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\bin\Debug\DevExpress.Utils.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\bin\Debug\DevExpress.XtraBars.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\bin\Debug\DevExpress.Office.v23.2.Core.xml
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\obj\Debug\Utilities.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\obj\Debug\Utilities.frmMessageBox.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\obj\Debug\Utilities.frmMessageBoxYesNo.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\obj\Debug\Utilities.frmMessageBoxOK.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\obj\Debug\Utilities.Properties.Resources.resources
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\obj\Debug\Utilities.csproj.GenerateResource.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\obj\Debug\Utilities.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\obj\Debug\Utilities.csproj.CopyComplete
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\obj\Debug\Utilities.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\Utilities\obj\Debug\Utilities.pdb

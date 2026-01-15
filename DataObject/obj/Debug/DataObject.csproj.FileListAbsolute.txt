@@ -1,0 +1,147 @@
+D:\Project Other\VuongBao\DataObject\bin\Debug\DataObject.dll
+D:\Project Other\VuongBao\DataObject\bin\Debug\DataObject.pdb
+D:\Project Other\VuongBao\DataObject\obj\Debug\DataObject.csproj.CoreCompileInputs.cache
+D:\Project Other\VuongBao\DataObject\obj\Debug\DataObject.dll
+D:\Project Other\VuongBao\DataObject\obj\Debug\DataObject.pdb
+D:\Project Other\VuongBao\DataObject\obj\Debug\DataObject.csproj.AssemblyReference.cache
+D:\Project Other\QuanDatThu\VuongBao\DataObject\bin\Debug\DataObject.dll
+D:\Project Other\QuanDatThu\VuongBao\DataObject\bin\Debug\DataObject.pdb
+D:\Project Other\QuanDatThu\VuongBao\DataObject\obj\Debug\DataObject.csproj.CoreCompileInputs.cache
+D:\Project Other\QuanDatThu\VuongBao\DataObject\obj\Debug\DataObject.dll
+D:\Project Other\QuanDatThu\VuongBao\DataObject\obj\Debug\DataObject.pdb
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\DataObject\bin\Debug\DataObject.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\DataObject\bin\Debug\DataObject.pdb
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\DataObject\obj\Debug\DataObject.csproj.CoreCompileInputs.cache
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\DataObject\obj\Debug\DataObject.dll
+D:\Project Other\QuanDatThu\VuongBao_MilkTea\DataObject\obj\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\DataObject\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\DataObject\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\DataObject\obj\Debug\DataObject.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\DataObject\obj\Debug\DataObject.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\DataObject\obj\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.5)\DataObject\obj\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\DataObject\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\DataObject\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\DataObject\obj\Debug\DataObject.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\DataObject\obj\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.6)\DataObject\obj\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\DataObject\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\DataObject\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\DataObject\obj\Debug\DataObject.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\DataObject\obj\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\DataObject\obj\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.7)\DataObject\obj\Debug\DataObject.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\DataObject\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\DataObject\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\DataObject\obj\Debug\DataObject.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\DataObject\obj\Debug\DataObject.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\DataObject\obj\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.8)\DataObject\obj\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\DataObject\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\DataObject\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\DataObject\obj\Debug\DataObject.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\DataObject\obj\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\DataObject\obj\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.1.9)\DataObject\obj\Debug\DataObject.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\DataObject\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\DataObject\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\DataObject\obj\Debug\DataObject.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\DataObject\obj\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\DataObject\obj\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.0)\DataObject\obj\Debug\DataObject.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\DataObject\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\DataObject\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\DataObject\obj\Debug\DataObject.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\DataObject\obj\Debug\DataObject.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\DataObject\obj\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.1)\DataObject\obj\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\DataObject\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\DataObject\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\DataObject\obj\Debug\DataObject.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\DataObject\obj\Debug\DataObject.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\DataObject\obj\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.2)\DataObject\obj\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\DataObject\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\DataObject\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\DataObject\obj\Debug\DataObject.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\DataObject\obj\Debug\DataObject.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\DataObject\obj\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.3)\DataObject\obj\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\DataObject\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\DataObject\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\DataObject\obj\Debug\DataObject.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\DataObject\obj\Debug\DataObject.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\DataObject\obj\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.4)\DataObject\obj\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\DataObject\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\DataObject\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\DataObject\obj\Debug\DataObject.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\DataObject\obj\Debug\DataObject.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\DataObject\obj\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.5)\DataObject\obj\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\DataObject\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\DataObject\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\DataObject\obj\Debug\DataObject.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\DataObject\obj\Debug\DataObject.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\DataObject\obj\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\VuongBao_MilkTea(1.0.2.6)\DataObject\obj\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\DataObject\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\DataObject\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\DataObject\obj\Debug\DataObject.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\DataObject\obj\Debug\DataObject.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\DataObject\obj\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.7)\DataObject\obj\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\DataObject\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\DataObject\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\DataObject\obj\Debug\DataObject.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\DataObject\obj\Debug\DataObject.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\DataObject\obj\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.8)\DataObject\obj\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\DataObject\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\DataObject\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\DataObject\obj\Debug\DataObject.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\DataObject\obj\Debug\DataObject.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\DataObject\obj\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.2.9)\DataObject\obj\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\DataObject\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\DataObject\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\DataObject\obj\Debug\DataObject.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\DataObject\obj\Debug\DataObject.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\DataObject\obj\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.0)\DataObject\obj\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\DataObject\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\DataObject\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\DataObject\obj\Debug\DataObject.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\DataObject\obj\Debug\DataObject.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\DataObject\obj\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.1)\DataObject\obj\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\DataObject\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\DataObject\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\DataObject\obj\Debug\DataObject.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\DataObject\obj\Debug\DataObject.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\DataObject\obj\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.2)\DataObject\obj\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\DataObject\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\DataObject\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\DataObject\obj\Debug\DataObject.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\DataObject\obj\Debug\DataObject.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\DataObject\obj\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.3)\DataObject\obj\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\DataObject\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\DataObject\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\DataObject\obj\Debug\DataObject.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\DataObject\obj\Debug\DataObject.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\DataObject\obj\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.6)\DataObject\obj\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\DataObject\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\DataObject\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\DataObject\obj\Debug\DataObject.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\DataObject\obj\Debug\DataObject.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\DataObject\obj\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.7)\DataObject\obj\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\DataObject\bin\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\DataObject\bin\Debug\DataObject.pdb
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\DataObject\obj\Debug\DataObject.csproj.AssemblyReference.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\DataObject\obj\Debug\DataObject.csproj.CoreCompileInputs.cache
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\DataObject\obj\Debug\DataObject.dll
+D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\DataObject\obj\Debug\DataObject.pdb

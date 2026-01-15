@@ -1,0 +1,60 @@
+
+13-04-2025 00:11:38
+Computer name: HIENPM
+PresentationLayer.pageManagement_groupFunctions_TableAndDish -> timerPromotion_Tick -> BusinessLogicLayer.busGeneralFunctions -> GetByCondition -> DatabaseAccessLayer.daoGeneralFunctions -> GetByCondition -> DatabaseAccessLayer.DataProvider -> GetDataTable:
+Unable to connect to any of the specified MySQL hosts.
+
+13-04-2025 00:11:38
+Computer name: HIENPM
+PresentationLayer.pageManagement_groupFunctions_TableAndDish -> timerPromotion_Tick -> General_GetByCondition:
+Exception : Unable to connect to any of the specified MySQL hosts.
+Computer name: HIENPM
+PresentationLayer.pageManagement_groupFunctions_TableAndDish -> timerPromotion_Tick -> BusinessLogicLayer.busGeneralFunctions -> GetByCondition -> DatabaseAccessLayer.daoGeneralFunctions -> GetByCondition -> DatabaseAccessLayer.DataProvider -> GetDataTable
+
+13-04-2025 00:11:39
+Computer name: HIENPM
+PresentationLayer.pageManagement_groupFunctions_TableAndDish -> timerPromotion_Tick -> BusinessLogicLayer.busGeneralFunctions -> GetByCondition -> DatabaseAccessLayer.daoGeneralFunctions -> GetByCondition -> DatabaseAccessLayer.DataProvider -> GetDataTable:
+Unable to connect to any of the specified MySQL hosts.
+
+13-04-2025 00:11:39
+Computer name: HIENPM
+PresentationLayer.pageManagement_groupFunctions_TableAndDish -> timerPromotion_Tick -> General_GetByCondition:
+Exception : Unable to connect to any of the specified MySQL hosts.
+Computer name: HIENPM
+PresentationLayer.pageManagement_groupFunctions_TableAndDish -> timerPromotion_Tick -> BusinessLogicLayer.busGeneralFunctions -> GetByCondition -> DatabaseAccessLayer.daoGeneralFunctions -> GetByCondition -> DatabaseAccessLayer.DataProvider -> GetDataTable
+
+13-04-2025 00:11:39
+Computer name: HIENPM
+PresentationLayer.pageManagement_groupFunctions_TableAndDish -> timerPromotion_Tick -> BusinessLogicLayer.busGeneralFunctions -> GetByCondition -> DatabaseAccessLayer.daoGeneralFunctions -> GetByCondition -> DatabaseAccessLayer.DataProvider -> GetDataTable:
+Unable to connect to any of the specified MySQL hosts.
+
+13-04-2025 00:11:39
+Computer name: HIENPM
+PresentationLayer.pageManagement_groupFunctions_TableAndDish -> timerPromotion_Tick -> General_GetByCondition:
+Exception : Unable to connect to any of the specified MySQL hosts.
+Computer name: HIENPM
+PresentationLayer.pageManagement_groupFunctions_TableAndDish -> timerPromotion_Tick -> BusinessLogicLayer.busGeneralFunctions -> GetByCondition -> DatabaseAccessLayer.daoGeneralFunctions -> GetByCondition -> DatabaseAccessLayer.DataProvider -> GetDataTable
+
+13-04-2025 00:11:40
+Computer name: HIENPM
+PresentationLayer.pageManagement_groupFunctions_TableAndDish -> timerPromotion_Tick -> BusinessLogicLayer.busGeneralFunctions -> GetByCondition -> DatabaseAccessLayer.daoGeneralFunctions -> GetByCondition -> DatabaseAccessLayer.DataProvider -> GetDataTable:
+Unable to connect to any of the specified MySQL hosts.
+
+13-04-2025 00:11:40
+Computer name: HIENPM
+PresentationLayer.pageManagement_groupFunctions_TableAndDish -> timerPromotion_Tick -> General_GetByCondition:
+Exception : Unable to connect to any of the specified MySQL hosts.
+Computer name: HIENPM
+PresentationLayer.pageManagement_groupFunctions_TableAndDish -> timerPromotion_Tick -> BusinessLogicLayer.busGeneralFunctions -> GetByCondition -> DatabaseAccessLayer.daoGeneralFunctions -> GetByCondition -> DatabaseAccessLayer.DataProvider -> GetDataTable
+
+13-04-2025 16:31:03
+Computer name: HIENPM
+PresentationLayer.pageManagement_groupFunctions_TableAndDish -> timerPromotion_Tick -> BusinessLogicLayer.busGeneralFunctions -> GetByCondition -> DatabaseAccessLayer.daoGeneralFunctions -> GetByCondition -> DatabaseAccessLayer.DataProvider -> GetDataTable:
+Unable to connect to any of the specified MySQL hosts.
+
+13-04-2025 16:31:03
+Computer name: HIENPM
+PresentationLayer.pageManagement_groupFunctions_TableAndDish -> timerPromotion_Tick -> General_GetByCondition:
+Exception : Unable to connect to any of the specified MySQL hosts.
+Computer name: HIENPM
+PresentationLayer.pageManagement_groupFunctions_TableAndDish -> timerPromotion_Tick -> BusinessLogicLayer.busGeneralFunctions -> GetByCondition -> DatabaseAccessLayer.daoGeneralFunctions -> GetByCondition -> DatabaseAccessLayer.DataProvider -> GetDataTable

@@ -1,0 +1,34 @@
+https://mysql01.htgsoft.com/phpmyadmin/index.php?route=/&route=%2F
+Password of user htgsoft: Htgsoft2405@!
+--------------------------------------------
+
+Host: development.htgsoft.com
+Port: 2420
+Username: hiennt
+Password: NTelkvHViQ(7hugG
+DB Name: LauNuongDatThu
+--------------------------------------------
+
+MySQL Root
+https://api.htgsoft.com/phpMyAdmin/
+Username: root
+Password: Htgsoft2405@!
+
+Address: api.htgsoft.com
+Port: 101
+DB Name: htgsoft-erp-core
+DB Name API: htgsoft-api
+Username: htgsoft
+Password: kN5.qC(y*t
+--------------------------------------------
+root
+Home@12345
+--------------------------------------------
+
+HTG Cloud MySQL
+
+Host: cloud2.htgsoft.com
+Port: 1023
+Username: hiennt
+Password: NTelkvHViQ(7hugG
+DB Name: LauNuongDatThu

@@ -1,0 +1,260 @@
+﻿using BusinessLogicLayer;
+using DevExpress.XtraEditors;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace PresentationLayer
+{
+    public partial class pageCategories_groupMaterialMenu_Menu : DevExpress.XtraEditors.XtraForm
+    {
+        MainForm frmMain = (MainForm)Application.OpenForms[0];
+
+        BusinessLogicLayer.busGeneralFunctions bGeneral = new BusinessLogicLayer.busGeneralFunctions();
+
+        int arrIndex = -1;
+        int selectedID = 0;
+
+        #region Functions     
+
+        public void Refreshed(string CallBy)
+        {
+            string callFrom = CallBy + " -> " + System.Reflection.MethodBase.GetCurrentMethod().DeclaringType + " -> " + System.Reflection.MethodBase.GetCurrentMethod().Name;
+            try
+            {
+                lkStatus_EditValueChanged(null, null);
+            }
+            catch (Exception ex)
+            {
+                Utilities.Functions.WriteLog(Utilities.Parameters.LogErrorPath, callFrom + ":\n" + ex.Message);
+                Utilities.Functions.MessageBoxOK("E", Utilities.Parameters.Error, ex.Message + "\n" + callFrom);
+            }
+        }
+
+        public void New(string CallBy)
+        {
+            string callFrom = CallBy + " -> " + System.Reflection.MethodBase.GetCurrentMethod().DeclaringType + " -> " + System.Reflection.MethodBase.GetCurrentMethod().Name;
+            try
+            {
+                pageCategories_groupMaterialMenu_Menu_Edit frmEdit = new pageCategories_groupMaterialMenu_Menu_Edit();
+                frmEdit.vMenuID = "0";
+                DialogResult dlg = frmEdit.ShowDialog();
+                if (dlg == DialogResult.OK)
+                {
+                    selectedID = int.Parse(frmEdit.vMenuID);
+                    lkStatus_EditValueChanged(null, null);
+                }
+            }
+            catch (Exception ex)
+            {
+                Utilities.Functions.WriteLog(Utilities.Parameters.LogErrorPath, callFrom + ":\n" + ex.Message);
+                Utilities.Functions.MessageBoxOK("E", Utilities.Parameters.Error, ex.Message + "\n" + callFrom);
+            }
+        }
+
+        public void Edit(string CallBy)
+        {
+            string callFrom = CallBy + " -> " + System.Reflection.MethodBase.GetCurrentMethod().DeclaringType + " -> " + System.Reflection.MethodBase.GetCurrentMethod().Name;
+            try
+            {
+                if (gvMenu.FocusedRowHandle < 0)
+                {
+                    frmMain.EnableAction(true, false, false, false, false, true, false, false, false, arrIndex);
+                    Utilities.Functions.MessageBox("W", Utilities.Parameters.Notification, "Vui lòng chọn Thực đơn cần cập nhật.", 5000);
+                    return;
+                }
+
+                selectedID = int.Parse(gvMenu.GetFocusedRowCellValue(colID).ToString());
+
+                pageCategories_groupMaterialMenu_Menu_Edit frmEdit = new pageCategories_groupMaterialMenu_Menu_Edit();
+                frmEdit.vMenuID = selectedID.ToString();
+                DialogResult dlg = frmEdit.ShowDialog();
+                if (dlg == DialogResult.OK)
+                    lkStatus_EditValueChanged(null, null);
+            }
+            catch (Exception ex)
+            {
+                Utilities.Functions.WriteLog(Utilities.Parameters.LogErrorPath, callFrom + ":\n" + ex.Message);
+                Utilities.Functions.MessageBoxOK("E", Utilities.Parameters.Error, ex.Message + "\n" + callFrom);
+            }
+
+        }
+
+        private void Populate_LookUpEdit(object lk, string TableName)
+        {
+            string callFrom = Utilities.Parameters.ComputerName + System.Reflection.MethodBase.GetCurrentMethod().DeclaringType + " -> " + System.Reflection.MethodBase.GetCurrentMethod().Name;
+            try
+            {
+                DataTable dtTemp = new DataTable();
+                string result = bGeneral.GetAll(callFrom, ref dtTemp, TableName, "Name asc");
+                if (result != Utilities.Parameters.ResultMessage)
+                {
+                    Utilities.Functions.WriteLog(Utilities.Parameters.LogErrorPath, callFrom + " -> " + TableName + ":\n" + result);
+                    Utilities.Functions.MessageBoxOK("E", Utilities.Parameters.Error, result + "\n" + callFrom + " -> " + TableName);
+                    this.Close();
+                }
+
+                Utilities.Multi.Populate_LookUpEdit(lk, dtTemp, "ID", "Name");
+            }
+            catch (Exception ex)
+            {
+                Utilities.Functions.WriteLog(Utilities.Parameters.LogErrorPath, callFrom + " -> " + TableName + ":\n" + ex.Message);
+                Utilities.Functions.MessageBoxOK("E", Utilities.Parameters.Error, ex.Message + "\n" + callFrom + " -> " + TableName);
+                this.Close();
+            }
+        }
+
+        #endregion
+
+        #region Events
+
+        public pageCategories_groupMaterialMenu_Menu()
+        {
+            InitializeComponent();
+
+            arrIndex = Utilities.Multi.GetIndexArray(this.Name);
+            if (arrIndex == -1)
+            {
+                Utilities.Functions.MessageBoxOK("E", Utilities.Parameters.Error, "Không tìm thấy arrIndex của Danh mục Thực đơn.");
+                this.Close();
+            }
+        }
+
+        private void pageCategories_groupMaterialMenu_Menu_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            string callFrom = Utilities.Parameters.ComputerName + System.Reflection.MethodBase.GetCurrentMethod().DeclaringType + " -> " + System.Reflection.MethodBase.GetCurrentMethod().Name;
+            frmMain.EnableAction(false, false, false, false, false, false, false, false, false, arrIndex);
+            frmMain.ChangeCurrentForm(callFrom, "", "");
+        }
+
+        private void pageCategories_groupMaterialMenu_Menu_Activated(object sender, EventArgs e)
+        {
+            string callFrom = Utilities.Parameters.ComputerName + System.Reflection.MethodBase.GetCurrentMethod().DeclaringType + " -> " + System.Reflection.MethodBase.GetCurrentMethod().Name;
+            frmMain.EnableAction(Utilities.Parameters.UserLogin.arrButtonStatus[arrIndex][1], Utilities.Parameters.UserLogin.arrButtonStatus[arrIndex][2],
+                              Utilities.Parameters.UserLogin.arrButtonStatus[arrIndex][3], Utilities.Parameters.UserLogin.arrButtonStatus[arrIndex][4],
+                              Utilities.Parameters.UserLogin.arrButtonStatus[arrIndex][5], Utilities.Parameters.UserLogin.arrButtonStatus[arrIndex][6],
+                              Utilities.Parameters.UserLogin.arrButtonStatus[arrIndex][7], Utilities.Parameters.UserLogin.arrButtonStatus[arrIndex][8],
+                              Utilities.Parameters.UserLogin.arrButtonStatus[arrIndex][9], arrIndex);
+            frmMain.ChangeCurrentForm(callFrom, this.Name, this.Text);
+        }
+
+        private void pageCategories_groupMaterialMenu_Menu_Load(object sender, EventArgs e)
+        {
+            string callFrom = Utilities.Parameters.ComputerName + System.Reflection.MethodBase.GetCurrentMethod().DeclaringType + " -> " + System.Reflection.MethodBase.GetCurrentMethod().Name;
+            try
+            {
+                if (Utilities.Multi.CheckRight_PermissionByCode("pageCategories_groupMaterialMenu_Menu", Utilities.Parameters.Permission_COST_PRICE))
+                {
+                    gvMenu.OptionsMenu.EnableColumnMenu = true;
+                }
+                else
+                {
+                    colCostPrice.Visible = false;
+                    gvMenu.OptionsMenu.EnableColumnMenu = false;
+                }
+
+                Populate_LookUpEdit(colMenuGroupID_rlk, "MenuGroup");
+                Populate_LookUpEdit(colStatusID_rlk, "Status"); 
+                Populate_LookUpEdit(lkStatus, "Status"); 
+                Populate_LookUpEdit(colUnitID_rlk, "Unit");
+
+                lkStatus.EditValue = 1;
+                lkStatus_EditValueChanged(null, null);
+            }
+            catch (Exception ex)
+            {
+                Utilities.Functions.WriteLog(Utilities.Parameters.LogErrorPath, callFrom + ":\n" + ex.Message);
+                Utilities.Functions.MessageBoxOK("E", Utilities.Parameters.Error, ex.Message + "\n" + callFrom);
+                frmMain.EnableAction(true, false, false, false, false, true, false, false, false, arrIndex);
+            }
+        }
+
+        private void gvMenu_CustomDrawRowIndicator(object sender, DevExpress.XtraGrid.Views.Grid.RowIndicatorCustomDrawEventArgs e)
+        {
+            if (e.RowHandle >= 0)
+                e.Info.DisplayText = (e.RowHandle + 1).ToString();
+        }
+
+        private void gvMenu_FocusedRowChanged(object sender, DevExpress.XtraGrid.Views.Base.FocusedRowChangedEventArgs e)
+        {
+            string callFrom = Utilities.Parameters.ComputerName + System.Reflection.MethodBase.GetCurrentMethod().DeclaringType + " -> " + System.Reflection.MethodBase.GetCurrentMethod().Name;
+            try
+            {
+                if (gvMenu.FocusedRowHandle < 0)
+                {
+                    frmMain.EnableAction(true, false, false, false, false, true, false, false, false, arrIndex);
+                    return;
+                }
+
+                frmMain.EnableAction(true, false, true, false, false, true, false, false, false, arrIndex);
+            }
+            catch (Exception ex)
+            {
+                Utilities.Functions.WriteLog(Utilities.Parameters.LogErrorPath, callFrom + ":\n" + ex.Message);
+                Utilities.Functions.MessageBoxOK("E", Utilities.Parameters.Error, ex.Message + "\n" + callFrom);
+            }
+        }
+
+        private void chkExpand_CheckedChanged(object sender, EventArgs e)
+        {
+            if (chkExpand.Checked)
+                gvMenu.CollapseAllGroups();
+            else
+                gvMenu.ExpandAllGroups();
+        }
+
+
+        private void lkStatus_EditValueChanged(object sender, EventArgs e)
+        {
+            string callFrom = Utilities.Parameters.ComputerName + System.Reflection.MethodBase.GetCurrentMethod().DeclaringType + " -> " + System.Reflection.MethodBase.GetCurrentMethod().Name;
+            try
+            {
+                if (lkStatus.EditValue == null || lkStatus.EditValue.ToString() == "")
+                {
+                    gcMenu.DataSource = null;
+                    return;
+                }
+
+                DataTable dtMenu = new DataTable();
+                busMenu bMenu = new busMenu();
+                string result = bMenu.GetByStatus_FullSize(callFrom, ref dtMenu, lkStatus.EditValue.ToString());
+                if (result != Utilities.Parameters.ResultMessage)
+                {
+                    Utilities.Functions.WriteLog(Utilities.Parameters.LogErrorPath, callFrom + " -> GetByCondition:\n" + result);
+                    Utilities.Functions.MessageBoxOK("E", Utilities.Parameters.Error, result + "\n" + callFrom + " -> GetByCondition");
+                }
+
+                gcMenu.DataSource = dtMenu;
+                chkExpand_CheckedChanged(null, null);
+
+                if (selectedID > 0)
+                    for (int i = 0; i < gvMenu.RowCount; i++)
+                    {
+                        if (gvMenu.GetRowCellValue(i, colID) != null && gvMenu.GetRowCellValue(i, colID).ToString() == selectedID.ToString())
+                        {
+                            gvMenu.SelectRow(i);
+                            gvMenu.FocusedRowHandle = i;
+                            break;
+                        }
+                    }
+
+                if (dtMenu == null || dtMenu.Rows.Count == 0)
+                    frmMain.EnableAction(true, false, false, false, false, true, false, false, false, arrIndex);
+                gvMenu_FocusedRowChanged(null, null);
+            }
+            catch (Exception ex)
+            {
+                Utilities.Functions.WriteLog(Utilities.Parameters.LogErrorPath, callFrom + ":\n" + ex.Message);
+                Utilities.Functions.MessageBoxOK("E", Utilities.Parameters.Error, ex.Message + "\n" + callFrom);
+            }
+        }
+
+        #endregion
+    }
+}
