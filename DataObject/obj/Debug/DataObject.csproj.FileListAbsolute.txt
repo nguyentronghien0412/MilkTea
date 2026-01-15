@@ -145,3 +145,9 @@ D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8
 D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\DataObject\obj\Debug\DataObject.csproj.CoreCompileInputs.cache
 D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\DataObject\obj\Debug\DataObject.dll
 D:\Project Other\MilkTea\Source Code\Branches\Branches(1.0.3.8)\Branches(1.0.3.8)\DataObject\obj\Debug\DataObject.pdb
+F:\Project Other\MilkTea\Source Code\MilkTea\DataObject\bin\Debug\DataObject.dll
+F:\Project Other\MilkTea\Source Code\MilkTea\DataObject\bin\Debug\DataObject.pdb
+F:\Project Other\MilkTea\Source Code\MilkTea\DataObject\obj\Debug\DataObject.csproj.AssemblyReference.cache
+F:\Project Other\MilkTea\Source Code\MilkTea\DataObject\obj\Debug\DataObject.csproj.CoreCompileInputs.cache
+F:\Project Other\MilkTea\Source Code\MilkTea\DataObject\obj\Debug\DataObject.dll
+F:\Project Other\MilkTea\Source Code\MilkTea\DataObject\obj\Debug\DataObject.pdb
